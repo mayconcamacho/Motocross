@@ -1,0 +1,34 @@
+body {
+    background-image: url(fundo\ azul\ escuro\ liso.png);
+    background-repeat: no-repeat;
+ background-size:500% ;
+ 
+ 
+ }
+ 
+ .MENU {
+     display: flex;
+ font-size: 200%;
+ justify-content: center;
+ 
+ 
+ }
+ 
+ .H {
+ display: flex;
+ font-size: 100%;
+ justify-content: center;
+ 
+ 
+ }
+ .i {
+ display: flex;
+ justify-content: center;
+ width: 100%;
+ }
+ 
+ 
+ .texto2 {
+ margin-left: 2%;
+ margin-right: 2%;
+ }

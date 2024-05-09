@@ -1,0 +1,37 @@
+body {
+   background-image: url(fundo\ vermelho\ liso\ .jpg);
+   background-repeat: no-repeat;
+background-size:500% ;
+
+}
+
+.MENU {
+    display: flex;
+font-size: 200%;
+justify-content: center;
+
+
+}
+
+.H {
+display: flex;
+font-size: 100%;
+justify-content: center;
+
+
+}
+.i {
+display: flex;
+justify-content: center;
+width: 100%;
+margin-left: 0%;
+margin-right: 1%;
+
+}
+
+.texto2 {
+margin-left: 2%;
+margin-right: 2%;
+
+
+}

@@ -1,0 +1,98 @@
+body {
+background-image: url(fundo\ preto.jpeg);
+background-repeat: no-repeat;
+background-size: 500%;
+margin-bottom: 200px;
+
+
+}
+.cabeçalho {
+display: flex;
+justify-content: center;
+color: rgb(0, 4, 255);
+margin-top: 20px;
+font-size: 200%;
+}
+.img {
+
+width: 10%;
+
+}
+.MENU {
+display:100%;
+justify-content: center;
+color: rgb(0, 4, 255);
+margin-top: -800px;
+
+
+}
+.texto {
+color: rgb(0, 4, 255);
+font-size: 28px;
+height: 1000px;
+margin-left: 100px;
+justify-content: center;
+margin-top: 70px;
+
+}
+
+
+.M {
+font-size: 270%;
+display: flex;
+justify-content: center;
+}
+
+.k {
+    
+font-size: 270%;
+display: flex;
+justify-content: center;
+}
+
+.Y {
+
+    font-size: 270%;
+    display: flex;
+    justify-content: center;
+}
+
+.T {
+    font-size: 270%;
+    display: flex;
+    justify-content: center;
+}
+
+.H {
+    font-size: 270%;
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.mm {
+   width: 65%;
+   margin-left: 18%;
+ }
+    
+ .mn {
+ width: 65%;
+ margin-left: 18%;
+ }
+
+ .nn {
+width: 65% ;
+margin-left: 18%;
+
+ }
+
+ .nm {
+width: 65%;
+margin-left: 18%;
+ }
+
+ .hh {
+width: 65%;
+margin-left: 18%;
+ }
