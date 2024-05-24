@@ -35,3 +35,12 @@ margin-right: 2%;
 
 
 }
+
+.botao {
+display: flex;
+justify-content: center;
+width: 100%;
+margin-left: 0%;
+font-size: 100px;
+
+}
