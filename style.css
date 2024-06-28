@@ -18,6 +18,19 @@ font-size: 200%;
 width: 10%;
 
 }
+
+.fundos {
+
+    display: flex;
+    justify-content: center;
+    color: rgb(0, 4, 255);
+    margin-top: 20px;
+    font-size: 150%;
+
+
+}
+
+
 .MENU {
 display:100%;
 justify-content: center;
