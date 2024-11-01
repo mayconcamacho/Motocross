@@ -1,34 +1,49 @@
 body {
-    background-image: url(fundo\ laranja\ liso.jpg);
-    background-repeat: no-repeat;
- background-size:500% ;
- 
- 
- }
- 
- .MENU {
-     display: flex;
- font-size: 200%;
- justify-content: center;
- 
- 
- }
- 
- .H {
- display: flex;
- font-size: 100%;
- justify-content: center;
- 
- 
- }
- .i {
- display: flex;
- justify-content: center;
- width: 100%;
- }
- 
- 
- .texto2 {
- margin-left: 2%;
- margin-right: 2%;
- }
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    background-color: #f4f4f4;
+}
+
+header {
+    background: #0056b3;
+    color: #ffffff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+section {
+    padding: 20px;
+    margin: 10px;
+    background: #ffffff;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    color: #0056b3;
+}
+
+button {
+    background-color: #b80c0c;
+    color: #ffffff;
+    border: none;
+    padding: 10px 15px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover {
+    background: #218838;
+}
+
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background: #0056b3;
+    color: #ffffff;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
